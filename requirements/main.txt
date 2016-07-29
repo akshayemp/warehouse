@@ -77,7 +77,7 @@ Mako==1.0.4 \
     --hash=sha256:fed99dbe4d0ddb27a33ee4910d8708aca9ef1fe854e668387a9ab9a90cbf9059
 MarkupSafe==0.23 \
     --hash=sha256:a4ec1aff59b95a14b45eb2e23761a0179e98319da5a7eb76b56ea8cdc7b871c3
-msgpack-python==0.4.7 \
+msgpack-python==0.4.8 \
     --hash=sha256:5e001229a54180a02dcdd59db23c9978351af55b1290c27bc549e381f43acd6b \
     --hash=sha256:cf8d257f830922682fce7ae545b8a4bdb11695897a40044f9f69aea257ceefcb \
     --hash=sha256:a952a3064853cddc38e21349b87d3f825c7a759307e46dfd75e0834165da689d \
